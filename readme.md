@@ -10,3 +10,5 @@ This repository contains a simple chess application built using HTML, CSS, and J
 
 
 To be continued....
+
+<img width="874" alt="Screenshot 2024-05-08 at 12 33 05 AM" src="https://github.com/BTheDream/simpleChessApp/assets/110173147/6c071d1b-cc12-4085-8d1b-39937ba77dc3">
