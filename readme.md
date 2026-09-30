@@ -1,14 +1,22 @@
 # Simple Chess App
 
-## Overview
-This repository contains a simple chess application built using HTML, CSS, and JavaScript. The chessboard allows for basic drag-and-drop functionality, enabling pieces to be moved across the board. This project serves as an educational tool to demonstrate simple web development techniques and basic chessboard implementation.
+<!-- repo-intro:start -->
+**Project snapshot:** A foundational browser chessboard experiment built with vanilla HTML, CSS, and JavaScript to practice DOM interaction, drag-and-drop behavior, and board-state thinking.
 
-## Features
-- **Drag-and-Drop Pieces**: Users can move chess pieces on the board using drag-and-drop.
-- **Static Layout**: A static 8x8 chessboard with alternating colored squares.
-- **Unicode Chess Pieces**: Uses Unicode characters to represent the chess pieces.
+**What it demonstrates:** Vanilla JavaScript · DOM events · drag-and-drop UI · early game-interface work.
+<!-- repo-intro:end -->
 
+## What this project demonstrates
 
-To be continued....
+- Building an 8×8 board UI without a framework
+- Rendering chess pieces with Unicode characters
+- Handling piece movement with browser drag-and-drop events
+- Structuring a small interactive project with separate HTML, CSS, and JavaScript files
 
-<img width="874" alt="Screenshot 2024-05-08 at 12 33 05 AM" src="https://github.com/BTheDream/simpleChessApp/assets/110173147/6c071d1b-cc12-4085-8d1b-39937ba77dc3">
+## Scope
+
+This is an early learning project rather than a rules-complete chess engine. It is kept in the portfolio to show the progression from a small browser experiment to the much more complete **Chess Universe** work in `ChessUniverseV2`.
+
+## Run locally
+
+Open `index.html` in a browser.
